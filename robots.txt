@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-ijo.pages.dev/sitemap.xml
